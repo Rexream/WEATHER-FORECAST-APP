@@ -7,9 +7,9 @@
 ## İÇİNDEKİLER
 
     - [UYGULAMA HAKKINDA](#uygulama-hakkinda)
-    - [UYGULAMA ÖZELLİKLER](#uygulama-özelli̇kleri̇)
-    - [UYGULAMA TEKNOLOJİLERİ](#uygulamada-kullanilan-paketler-ve-sürümleri̇)
-    - [UYGULAMA İÇİ GÖRSELLER](#uygulama-i̇çi̇-görseller)
+    - [UYGULAMA ÖZELLİKLER](#uygulama-ozelli̇kleri̇)
+    - [UYGULAMA TEKNOLOJİLERİ](#uygulamada-kullanilan-paketler-ve-surumleri̇)
+    - [UYGULAMA İÇİ GÖRSELLER](#uygulama-i̇ci̇-gorseller)
 
 
 
@@ -55,8 +55,8 @@ Lottie dosyalarını göstermek için "Lottie paketi" kullanılmaktadır.
     BAZI UYGULAMA İÇİ GÖRSELLER
 
     <p align="Center">
-        <img src="screenshots/app1.png" widht="250" />
-        <img src="screenshots/app2.png" widht="250" />
-        <img src="screenshots/app3.png" widht="250" />
-        <img src="screenshots/app4.png" widht="250" />
+        <img src="screenshots/app1.png" width="250" />
+        <img src="screenshots/app2.png" width="250" />
+        <img src="screenshots/app3.png" width="250" />
+        <img src="screenshots/app4.png" width="250" />
     </p>
