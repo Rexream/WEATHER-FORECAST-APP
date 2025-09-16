@@ -41,12 +41,10 @@
 
     BAZI UYGULAMA İÇİ GÖRSELLER
 
-<p align="left">
+<p align="center">
   <img src="screenshots/app1.png" width="250" />
-  <br>
   <img src="screenshots/app2.png" width="250" />
   <br>
   <img src="screenshots/app3.png" width="250" />
-  <br>
   <img src="screenshots/app4.png" width="250" />
 </p>
