@@ -4,15 +4,6 @@
 
 
 
-## İÇİNDEKİLER
-
-    - [UYGULAMA HAKKINDA](#uygulama-hakkinda)
-    - [UYGULAMA ÖZELLİKLER](#uygulama-ozelli̇kleri̇)
-    - [UYGULAMA TEKNOLOJİLERİ](#uygulamada-kullanilan-paketler-ve-surumleri̇)
-    - [UYGULAMA İÇİ GÖRSELLER](#uygulama-i̇ci̇-gorseller)
-
-
-
 # UYGULAMA HAKKINDA
     
     Gelen veriler 3 saat aralıklarla 40 adet veri yapısında gelmektedir. Bu veriler ilgili saatin derecesini,
