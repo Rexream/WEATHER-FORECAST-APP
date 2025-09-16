@@ -41,9 +41,9 @@
 
     BAZI UYGULAMA İÇİ GÖRSELLER
 
-    <p align="center">
-        <img src="screenshots/app1.png" width="250" />
-        <img src="screenshots/app2.png" width="250" />
-        <img src="screenshots/app3.png" width="250" />
-        <img src="screenshots/app4.png" width="250" />
-    </p>
+<p align="center">
+  <img src="screenshots/app1.png" width="250" />
+  <img src="screenshots/app2.png" width="250" />
+  <img src="screenshots/app3.png" width="250" />
+  <img src="screenshots/app4.png" width="250" />
+</p>
