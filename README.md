@@ -41,7 +41,7 @@
 
     BAZI UYGULAMA İÇİ GÖRSELLER
 
-<p align="center">
+<p align="left">
   <img src="screenshots/app1.png" width="250" />
   <br>
   <img src="screenshots/app2.png" width="250" />
